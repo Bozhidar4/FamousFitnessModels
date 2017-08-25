@@ -1,0 +1,41 @@
+﻿body {
+}
+.myLogo{
+    width: 25px;
+    height: 25px;
+}
+
+#slideshow { 
+    margin: 50px auto; 
+    position: relative; 
+    width: 260px; 
+    height: 260px; 
+    padding: 10px; 
+    box-shadow: 0 0 20px rgba(0,0,0,0.4); 
+}
+
+#slideshow > div { 
+    position: absolute; 
+    top: 10px; 
+    left: 10px; 
+    right: 10px; 
+    bottom: 10px; 
+}
+.slider{
+    width: 240px;
+    height: 240px;
+}
+h1{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: dimgray;
+    text-align: center;
+}
+.navbar-inverse {
+  background-color: #404040;
+  box-shadow: 1px 1px 10px black;
+  border: none;
+}
+.navbar-inverse .navbar-brand {
+  color: #999999;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

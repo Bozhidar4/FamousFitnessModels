@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="FitnessModelsDataEntities-Web.config Connection String" description="FitnessModelsDataEntities Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/Models.FitnessModel.csdl|res://*/Models.FitnessModel.ssdl|res://*/Models.FitnessModel.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=DESKTOP-3NU3P8A\BOZHIDARSQL;initial catalog=FitnessModelsData;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="F:\\Just\ IT\\Projects\\FamousFitnessModels\\FamousFitnessModels\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='FitnessModelsDataEntities']/@connectionString" />
+  </parameter>
+</parameters>
